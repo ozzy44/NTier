@@ -1,5 +1,7 @@
 ﻿namespace NTier.Core.Enums
 {
+
+
     public enum Status
     {
         
