@@ -26,5 +26,6 @@ namespace NTier.Core.Entities
 
         public Guid? ModifiedBy { get; set; } 
 
+
     }
 }
